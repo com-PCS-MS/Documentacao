@@ -1,4 +1,4 @@
-# PSC / MS
+# AskGame
 
 Projeto feito para gamificar perguntas e respostas entre dois usuários.
 
@@ -12,7 +12,7 @@ Veja as [definições e siglas]().
 
 ## Cronograma
 
-Veja o [cronograma]().
+Veja o [cronograma](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/gantt.png).
 
 ## Colaboradores
 
@@ -20,22 +20,19 @@ Veja o [cronograma]().
 * [Juan Martins](https://www.linkedin.com/in/juan-martins-88243b212/)
 * [Guilherme de Melo](https://www.linkedin.com/in/guilherme-de-melo-dutra-a61a31215/)
 * [Lucas Viana](https://www.linkedin.com/in/lucas-viana-6b13b1178/)
-* [Jaisler Melo]()
+* [Jaisler Melo](https://www.linkedin.com/in/jaisler-melo-7b30a9227/)
 
 ## Backlog do Produto
 
-Veja o [Kanban]().
+Veja o [Kanban](https://github.com/orgs/com-PCS-MS/projects/1).
 
 ## Sprints
 
-* 1
-* 2
-* 3
-* 4
+* Teste
 
 ## Diagrama de Caso de Uso
 
-Veja o [diagrama]().
+Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/diagrama%20de%20classes.png).
 
 ## Diagrama de Classes
 
