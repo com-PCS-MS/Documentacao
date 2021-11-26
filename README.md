@@ -32,11 +32,11 @@ Veja o [Kanban](https://github.com/orgs/com-PCS-MS/projects/1).
 
 ## Diagrama de Caso de Uso
 
-Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/diagrama%20de%20classes.png).
+Veja o [diagrama]().
 
 ## Diagrama de Classes
 
-Veja o [diagrama]().
+Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/Diagrama%20de%20Classe.png).
 
 ## Modelo Entidade Relacionamento da Base de Dados do Sistema
 
