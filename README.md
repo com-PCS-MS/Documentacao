@@ -12,7 +12,7 @@ Veja as [definições e siglas]().
 
 ## Cronograma
 
-Veja o [cronograma](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/gantt.png).
+Veja o [cronograma](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/AskGame.png).
 
 ## Colaboradores
 
@@ -32,7 +32,7 @@ Veja o [Kanban](https://github.com/orgs/com-PCS-MS/projects/1).
 
 ## Diagrama de Caso de Uso
 
-Veja o [diagrama]().
+Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/Diagrama_de_Caso_de_Uso.png).
 
 ## Diagrama de Classes
 
