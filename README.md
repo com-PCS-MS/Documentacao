@@ -40,8 +40,8 @@ Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main
 
 ## Modelo Entidade Relacionamento da Base de Dados do Sistema
 
-Veja o [diagrama]().
+Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/Diagrama_Entidade_e_relacionamento.PNG).
 
 ## Modelo Relacional da Base de Dados do Sistema
 
-Veja o [diagrama]().
+Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/Digrama_Relacional.PNG).
