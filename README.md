@@ -8,7 +8,7 @@ O objetivo deste trabalho é desenvolver um jogo de perguntas e respostas.
 
 ## Definições e Siglas
 
-Veja as [definições e siglas]().
+Veja as [definições e siglas](https://github.com/com-PCS-MS/Documentacao/blob/main/Defini%C3%A7%C3%B5es%20e%20Siglas.pdf).
 
 ## Cronograma
 
