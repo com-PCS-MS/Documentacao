@@ -32,7 +32,7 @@ Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main
 
 ## Diagrama de Classes
 
-Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/Diagrama%20de%20Classe.png).
+Veja o [diagrama](https://raw.githubusercontent.com/com-PCS-MS/Documentacao/main/Diagrama%20de%20Classes.png).
 
 ## Modelo Entidade Relacionamento da Base de Dados do Sistema
 
